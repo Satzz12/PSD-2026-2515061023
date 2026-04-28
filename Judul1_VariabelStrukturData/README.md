@@ -1,5 +1,7 @@
 Program Sistem Kehadiran Mahasiswa
+
 Deskripsi Singkat
+
 Program ini merupakan program sistem pencatatan kehadiran mahasiswa sederhana berbasis menu, yang dapat digunakan untuk mengisi, menampilkan, mereset, dan melihat status kehadiran masing-masing mahasiswa. Program menggunakan struktur data list sebagai tempat penyimpanan status kehadiran, dan dictionary sebagai pemetaan kode status ke keterangan. List dipilih karena mendukung pengaksesan elemen berdasarkan index secara langsung, sehingga setiap slot dapat diidentifikasi melalui id() untuk melihat address memorinya.
 <img width="862" height="52" alt="Cuplikan layar 2026-04-28 183633" src="https://github.com/user-attachments/assets/4c492a70-a0f2-4d1b-8813-34ccf3cedec8" />
 Pada baris 1, dibuat list NAMA_MAHASISWA yang menyimpan nama-nama 5 mahasiswa secara berurutan. Pada baris 2, dibuat dictionary STATUS yang memetakan angka 0–4 ke keterangan status kehadiran, di mana 0 berarti belum diisi, 1 hadir, 2 sakit, 3 izin, dan 4 alpha.
