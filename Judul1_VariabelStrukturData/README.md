@@ -36,3 +36,5 @@ Setelah direset, semua mahasiswa kembali berstatus "Belum diisi" dan tabel ditam
 <img width="542" height="124" alt="image" src="https://github.com/user-attachments/assets/795f5982-bfcf-4d17-96df-c416614fd25d" />
 Kehadiran Tertentu
 User memasukkan index, misalnya 2, maka program menampilkan nama Dzakya beserta statusnya saja.
+
+link youtube : https://youtu.be/_vtHVMWRqJA
