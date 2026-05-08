@@ -26,6 +26,7 @@ Line 28 memanggil fungsi sequential_search_sentinel dengan data, n, dan target s
 
 Line 30-33 menampilkan hasil pencarian. Jika counter lebih dari 0 maka program menampilkan berapa kali target ditemukan beserta indeks terakhir kemunculannya. Jika counter bernilai 0 maka program menampilkan pesan bahwa target tidak ditemukan.
 
+link yt: https://youtu.be/6JXUMgD0Kxw
 
 Line 36-37 adalah blok yang memastikan fungsi main hanya berjalan jika file ini dijalankan langsung, bukan ketika diimpor sebagai modul di program lain.
 
