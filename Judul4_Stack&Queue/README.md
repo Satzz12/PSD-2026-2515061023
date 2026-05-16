@@ -33,5 +33,7 @@ Line 48-57 menampilkan menu pilihan dan meminta input dari pengguna menggunakan 
 
 Line 59-72 adalah blok kondisi yang menjalankan fungsi sesuai pilihan pengguna. Pilihan 1 meminta nama sepatu lalu memanggil `tumpuk`, pilihan 2 memanggil `ambil`, pilihan 3 memanggil `lihat_teratas`, dan pilihan 4 memanggil `tampilkan`. Pilihan 5 mengosongkan seluruh tumpukan satu per satu menggunakan loop `while` sebelum program berhenti.
 
+
 **Line 74-75** adalah blok yang memastikan fungsi `main` hanya berjalan jika file ini dijalankan langsung, bukan ketika diimpor sebagai modul di program lain.
 
+Link yt : https://youtu.be/9-RrNeOAOiU
